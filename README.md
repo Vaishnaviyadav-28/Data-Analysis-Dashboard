@@ -11,7 +11,7 @@ By analyzing the raw numbers, the dashboard brings a few key storylines to life:
 
 •	Revenue Trends: The year closed out with a solid **$33M** in gross revenue, highlighted by a major sales spike in October (~$3.49M).
 
-•	The Profit Drivers: Advanced tech was the clear winner. The AI Suite (~$6.04M) and Block Chain Ledger (~$5.61M) drove the bulk of the $24.2M total net profit.
+•	The Profit Drivers: Advanced tech was the clear winner. The AI Suite and Block Chain Ledger drove the bulk of the $24.2M total net profit.
 
 •	Regional Standouts: When comparing our five key markets (East, West, North, South, and International), the South region consistently led the pack in overall sales.
 
@@ -24,9 +24,13 @@ By analyzing the raw numbers, the dashboard brings a few key storylines to life:
 
 ## 🛠️ Tools & Skills Showcased
 Building this dashboard allowed me to put several core data skills into practice:
+
 •	Microsoft Excel: Extensive data cleaning, manipulation, and aggregation.
+
 •	Pivot Tables & Charts: Dynamically summarizing massive datasets so the most important numbers stand out.
+
 •	Data Visualization: Designing intuitive, visually appealing charts that tell a story at a glance.
+
 •	Dashboard Design: Structuring a cohesive, interactive interface that anyone can navigate without feeling overwhelmed.
 
 ## 🚀 Want to explore the data yourself?
