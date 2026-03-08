@@ -7,11 +7,16 @@ I built this interactive Excel dashboard to transform raw tech sales data into c
 - <a href="https://github.com/Vaishnaviyadav-28/Data-Analysis-Dashboard/blob/main/Excel_Dashboard_Sheets.xlsx">Dataset</a>
 
 ## 💡 What the Data Tells Us
-By analyzing the raw numbers, the dashboard brings a few key storylines to life:
+By analyzing the raw numbers, the dashboard brings a few key storylines to life:  
+
 •	Revenue Trends: The year closed out with a solid **$33M** in gross revenue, highlighted by a major sales spike in October (~$3.49M).
+
 •	The Profit Drivers: Advanced tech was the clear winner. The AI Suite (~$6.04M) and Block Chain Ledger (~$5.61M) drove the bulk of the $24.2M total net profit.
+
 •	Regional Standouts: When comparing our five key markets (East, West, North, South, and International), the South region consistently led the pack in overall sales.
+
 •	Top Performers: The sales team pushed an impressive 27,070 units overall, with reps like Ram and Saddam Ansari leading the charge.
+
 •	Customer Sentiment: Customer satisfaction hovered at a steady average of 2.84 throughout the year—a helpful metric for identifying areas where product support could be improved.
 
 ## Dashboard Interaction
