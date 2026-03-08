@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-Data is only useful if you can understand it. I designed this dashboard to help decision-makers skip the endless spreadsheets and get straight to the insights. It seamlessly tracks regional performance, product profits, and overall team success over a 12-month period, all housed in one clean, interactive view.
+#📊 Tech Sales Performance Dashboard
+
+##👋 Welcome to My Project
+I built this interactive Excel dashboard to transform raw tech sales data into clear, actionable business insights. Over a 12-month period, this project tracks revenue trends, highlights top-performing products, and monitors customer satisfaction. My goal was to create a clean, user-friendly tool that makes complex datasets easy to digest and helps drive quick, informed decisions.
